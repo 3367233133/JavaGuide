@@ -29,7 +29,7 @@
 
 <!-- #region home -->
 
-## 项目相关
+## 项目相关,在这里加上内容：软件项目管理作业的内容，到此一游
 
 - [项目介绍](./docs/javaguide/intro.md)
 - [贡献指南](./docs/javaguide/contribution-guideline.md)
